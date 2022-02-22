@@ -5,6 +5,9 @@ Hello there.. just learning git commands
 i can add new things too
 my name is Saloni..
 
+I am a student and doing internship in a company
+I want to add this in a branch not in orignal code
+
 
 
 Thank you :)
